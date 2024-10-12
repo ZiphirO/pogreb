@@ -1,7 +1,7 @@
 project name: "pogreb"
 
 used technology stack:
-java 17
+java 21
 spring boot
 postgres
 docker
