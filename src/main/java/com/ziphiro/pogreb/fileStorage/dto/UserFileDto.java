@@ -1,6 +1,6 @@
-package com.ziphiro.pogreb.dto;
+package com.ziphiro.pogreb.fileStorage.dto;
 
-import com.ziphiro.pogreb.entityes.User;
+import com.ziphiro.pogreb.fileStorage.entityes.User;
 import lombok.*;
 
 @AllArgsConstructor

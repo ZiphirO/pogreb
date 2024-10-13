@@ -1,4 +1,4 @@
-package com.ziphiro.pogreb.entityes;
+package com.ziphiro.pogreb.fileStorage.entityes;
 
 import jakarta.persistence.*;
 import lombok.*;

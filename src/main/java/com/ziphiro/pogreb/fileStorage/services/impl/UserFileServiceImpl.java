@@ -1,8 +1,8 @@
-package com.ziphiro.pogreb.services.impl;
+package com.ziphiro.pogreb.fileStorage.services.impl;
 
-import com.ziphiro.pogreb.entityes.UserFile;
-import com.ziphiro.pogreb.repositories.UserFileRepository;
-import com.ziphiro.pogreb.services.UserFileService;
+import com.ziphiro.pogreb.fileStorage.entityes.UserFile;
+import com.ziphiro.pogreb.fileStorage.repositories.UserFileRepository;
+import com.ziphiro.pogreb.fileStorage.services.UserFileService;
 import com.ziphiro.pogreb.util.StrVal;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

@@ -1,6 +1,6 @@
-package com.ziphiro.pogreb.services.impl;
+package com.ziphiro.pogreb.fileStorage.services.impl;
 
-import com.ziphiro.pogreb.services.UserService;
+import com.ziphiro.pogreb.fileStorage.services.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

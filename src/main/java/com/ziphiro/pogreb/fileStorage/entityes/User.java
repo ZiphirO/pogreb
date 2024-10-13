@@ -1,4 +1,4 @@
-package com.ziphiro.pogreb.entityes;
+package com.ziphiro.pogreb.fileStorage.entityes;
 
 import com.ziphiro.pogreb.util.Role;
 import jakarta.persistence.*;

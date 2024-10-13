@@ -1,9 +1,8 @@
-package com.ziphiro.pogreb.services;
+package com.ziphiro.pogreb.fileStorage.services;
 
-import com.ziphiro.pogreb.entityes.UserFile;
+import com.ziphiro.pogreb.fileStorage.entityes.UserFile;
 import org.springframework.core.io.InputStreamResource;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;

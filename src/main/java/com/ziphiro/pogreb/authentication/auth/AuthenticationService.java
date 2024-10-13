@@ -3,8 +3,8 @@ package com.ziphiro.pogreb.authentication.auth;
 
 import com.ziphiro.pogreb.authentication.authConfig.JwtService;
 import com.ziphiro.pogreb.util.Role;
-import com.ziphiro.pogreb.entityes.User;
-import com.ziphiro.pogreb.repositories.UserRepository;
+import com.ziphiro.pogreb.fileStorage.entityes.User;
+import com.ziphiro.pogreb.fileStorage.repositories.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

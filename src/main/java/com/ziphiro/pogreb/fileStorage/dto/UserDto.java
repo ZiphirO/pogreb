@@ -1,4 +1,4 @@
-package com.ziphiro.pogreb.dto;
+package com.ziphiro.pogreb.fileStorage.dto;
 
 import com.ziphiro.pogreb.util.Role;
 import jakarta.persistence.Column;

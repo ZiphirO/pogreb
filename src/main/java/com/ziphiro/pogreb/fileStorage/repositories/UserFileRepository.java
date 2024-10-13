@@ -1,6 +1,6 @@
-package com.ziphiro.pogreb.repositories;
+package com.ziphiro.pogreb.fileStorage.repositories;
 
-import com.ziphiro.pogreb.entityes.UserFile;
+import com.ziphiro.pogreb.fileStorage.entityes.UserFile;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

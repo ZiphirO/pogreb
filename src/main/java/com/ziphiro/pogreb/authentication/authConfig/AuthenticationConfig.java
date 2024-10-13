@@ -1,6 +1,6 @@
-package com.ziphiro.pogreb.config;
+package com.ziphiro.pogreb.authentication.authConfig;
 
-import com.ziphiro.pogreb.repositories.UserRepository;
+import com.ziphiro.pogreb.fileStorage.repositories.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

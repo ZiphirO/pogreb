@@ -1,4 +1,4 @@
-package com.ziphiro.pogreb.controllers;
+package com.ziphiro.pogreb.authentication.controller;
 
 
 import org.springframework.http.ResponseEntity;

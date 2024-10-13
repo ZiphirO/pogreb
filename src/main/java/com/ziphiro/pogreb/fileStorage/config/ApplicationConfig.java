@@ -1,4 +1,4 @@
-package com.ziphiro.pogreb.config;
+package com.ziphiro.pogreb.fileStorage.config;
 
 import com.ziphiro.pogreb.util.StrVal;
 import lombok.extern.slf4j.Slf4j;

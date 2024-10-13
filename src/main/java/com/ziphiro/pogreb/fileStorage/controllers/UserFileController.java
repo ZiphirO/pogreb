@@ -1,12 +1,7 @@
-package com.ziphiro.pogreb.controllers;
+package com.ziphiro.pogreb.fileStorage.controllers;
 
-import com.ziphiro.pogreb.entityes.UserFile;
-import com.ziphiro.pogreb.services.UserFileService;
-import com.ziphiro.pogreb.services.impl.UserFileServiceImpl;
-import jakarta.annotation.Resource;
-import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
-import lombok.RequiredArgsConstructor;
+import com.ziphiro.pogreb.fileStorage.entityes.UserFile;
+import com.ziphiro.pogreb.fileStorage.services.impl.UserFileServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.InputStreamResource;
 import org.springframework.http.MediaType;
